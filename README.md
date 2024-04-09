@@ -15,8 +15,6 @@
 
 ##🚀 Let's build something awesome together, one line of code and one laugh at a time! Connect with me and let's geek out!
 
-
-
 <img src="https://i.pinimg.com/originals/b9/4a/76/b94a76bce98603c151bf75c79ccd0516.gif"/>
 Here are some ideas to get you started:
 
