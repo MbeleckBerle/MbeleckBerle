@@ -1,6 +1,6 @@
 # Mbeleck Berle
 **`Machine learning Enthusiast`**
-
+![deepLearning](https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/4eb44c81-abdd-40cc-a6da-2ef4004ed089)
 
 <h2>🎓 A proud Computer Science grad with a knack for turning coffee into code and memes into machine learning models.</h2>
 
@@ -11,7 +11,7 @@
 <h5>🔍 Always up for a good nerdy joke or a brainstorming session on how to take over the world with AI.</h5>
 
 <h5>🚀 Let's build something awesome together, one line of code and one laugh at a time! Connect with me and let's geek out!
-![deepLearning](https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/4eb44c81-abdd-40cc-a6da-2ef4004ed089)
+
 
 </h5>
 
