@@ -1,6 +1,6 @@
 # Mbeleck Berle
 **`Machine learning Enthusiast`**
-![mojo3](https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/725a7787-f819-4157-a574-87b26e156af4)
+![Screen+Shot+2021-05-19+at+10 21 47+AM](https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/4af34012-b1d8-41e3-bb22-069aec233bb3)
 
 <ul>
 <li> 🎓 A proud Computer Science grad with a knack for turning coffee into code and memes into machine learning models.</li>
