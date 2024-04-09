@@ -3,7 +3,7 @@
 **`Machine learning Enthusiast`**
 🎓 A proud Computer Science grad with a knack for turning coffee into code and 🧠 currently on a quest to teach computers to understand sarcasm...it's going r
 
-<!--
+
 ##🎓 A proud Computer Science grad with a knack for turning coffee into code and memes into machine learning models.</br>
 
 ##🧠 Currently on a quest to teach computers to understand sarcasm...it's going really well.</br>
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
