@@ -11,4 +11,4 @@
 
 
 
-<img object-fit = contain height = 200px width = 100% src="https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/e1d5c6a9-3e7c-4576-bb1d-87df51a4c87f" />
+<img object-fit = cover height = 200px width = 100% src="https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/e1d5c6a9-3e7c-4576-bb1d-87df51a4c87f" />
