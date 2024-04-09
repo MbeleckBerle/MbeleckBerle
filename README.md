@@ -1,4 +1,4 @@
-# Mbeleck Berle
+<h1 style="color: orange"> Mbeleck Berle </h1>
 **`Machine learning Enthusiast`**
 
 <p  style = "background-image: url('https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/115363e0-d60e-4ff6-8e52-10ec585c9718'); height: 200px; width: 300px">
