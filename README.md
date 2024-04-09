@@ -1,6 +1,7 @@
 # Mbeleck Berle
 **`Machine learning Enthusiast`**
-![Screen+Shot+2021-05-19+at+10 21 47+AM](https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/4c5e1a8e-14cc-43c1-a45c-db0edaa81f70)
+![mojo3](https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/725a7787-f819-4157-a574-87b26e156af4)
+
 <ul>
 <li> 🎓 A proud Computer Science grad with a knack for turning coffee into code and memes into machine learning models.</li>
 <li> 🧠 Currently on a quest to teach computers to understand sarcasm...it's going really well.</li>
