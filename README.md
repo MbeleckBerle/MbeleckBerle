@@ -1,18 +1,13 @@
 # Mbeleck Berle
 
 **`Machine learning Enthusiast`**
-🎓 A proud Computer Science grad with a knack for turning coffee into code and 🧠 currently on a quest to teach computers to understand sarcasm...it's going r
+🎓 <h1>A proud Computer Science grad with a knack for turning coffee into code and memes into machine learning models.</h1>
 
-![deepLearning](https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/2f17f572-644b-43e8-9ca2-d86843c90c0c)
+🧠 Currently on a quest to teach computers to understand sarcasm...it's going really well.
 
-🎓 A proud Computer Science grad with a knack for turning coffee into code and memes into machine learning models.</br>
+💻 When I'm not debugging, you can find me procrastinating by contributing to open-source projects or debating whether tabs or spaces are superior (it's tabs, obviously).
 
-🧠 Currently on a quest to teach computers to understand sarcasm...it's going really well.</br>
-
-💻 When I'm not debugging, you can find me procrastinating by contributing to open-source projects
-or debating whether tabs or spaces are superior (it's tabs, obviously).</br>
-
-🔍 Always up for a good nerdy joke or a brainstorming session on how to take over the world with AI.</br>
+🔍 Always up for a good nerdy joke or a brainstorming session on how to take over the world with AI.
 
 🚀 Let's build something awesome together, one line of code and one laugh at a time! Connect with me and let's geek out!
 
