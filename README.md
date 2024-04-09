@@ -3,7 +3,7 @@
 <img height=200 src="https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/18786fb0-31ee-4372-9761-4f8e89170ffd"/>
 
 
-<div>
+<div style="display: flex">
   <img src="https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/37f020e1-c2bd-4144-a585-883510362032" />
   <h2>🎓 A proud Computer Science grad with a knack for turning coffee into code and memes into machine learning models.</h2>
 <h3>🧠 Currently on a quest to teach computers to understand sarcasm...it's going really well.</h3>
