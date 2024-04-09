@@ -1,7 +1,7 @@
 # Mbeleck Berle
 **`Machine learning Enthusiast`**
 
-<p style = "background-image: url('https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/115363e0-d60e-4ff6-8e52-10ec585c9718')">
+<p  style = "background-image: url('https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/115363e0-d60e-4ff6-8e52-10ec585c9718'); height: 200px; width: 300px">
 <div style="display: flex; flex-direction: row">
   <img src="https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/37f020e1-c2bd-4144-a585-883510362032" />
   <div width 200px>🎓 A proud Computer Science grad with a knack for turning coffee into code and memes into machine learning models.</div>
