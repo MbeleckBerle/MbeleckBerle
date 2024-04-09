@@ -1,15 +1,15 @@
 # Mbeleck Berle
-
 **`Machine learning Enthusiast`**
-🎓 <h1>A proud Computer Science grad with a knack for turning coffee into code and memes into machine learning models.</h1>
 
-🧠 Currently on a quest to teach computers to understand sarcasm...it's going really well.
+<h2>🎓 A proud Computer Science grad with a knack for turning coffee into code and memes into machine learning models.</h2>
 
-💻 When I'm not debugging, you can find me procrastinating by contributing to open-source projects or debating whether tabs or spaces are superior (it's tabs, obviously).
+<h3>🧠 Currently on a quest to teach computers to understand sarcasm...it's going really well.</h3>
 
-🔍 Always up for a good nerdy joke or a brainstorming session on how to take over the world with AI.
+<h4>💻 When I'm not debugging, you can find me procrastinating by contributing to open-source projects or debating whether tabs or spaces are superior (it's tabs, obviously).</h4>
 
-🚀 Let's build something awesome together, one line of code and one laugh at a time! Connect with me and let's geek out!
+<h5>🔍 Always up for a good nerdy joke or a brainstorming session on how to take over the world with AI.</h5>
+
+<h6>🚀 Let's build something awesome together, one line of code and one laugh at a time! Connect with me and let's geek out!</h6>
 
 
 
