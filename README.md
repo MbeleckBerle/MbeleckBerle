@@ -1,6 +1,7 @@
 # Mbeleck Berle
 **`Machine learning Enthusiast`**
-![docubot - Copy](https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/24f55698-89b8-4620-8640-bb5f729cdc81)
+
+![MojoDesign3(removed background)](https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/252a603c-5149-4a96-b51f-765ea639341c)
 
 
 <ul>
