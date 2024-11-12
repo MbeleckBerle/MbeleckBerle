@@ -20,13 +20,7 @@
 
 <h3 align="left">I'm a reader, gamer, developer and a huge fan of classical music 🎼.</h3>
 
-- 🔭 I'm currently freelancing 😋
-- 🌱 I’m learning: how to make cool animations with `GSAP`.
-- 🏁 I'm looking forward to learning: `ElectronJS`.
-- 👯 I’m looking to collaborate on: web apps and sites.
-- 💬 Ask me about: Frontend or classical music. 😎
-- ⚡ Fun fact: I'm working on being ambidextrous! 😅
-- 🎧 Listened to these yet?: [Beethoven 🎵](https://www.youtube.com/watch?v=BV7RkEL6oRc),
+
   [Liszt 🎵](https://www.youtube.com/watch?v=H1Dvg2MxQn8),
   [Tchaikovsky🎵](https://www.youtube.com/watch?v=sdduPpnqre4),
   [Vivaldi 🎵](https://www.youtube.com/watch?v=H_3JiTfmuzg)
