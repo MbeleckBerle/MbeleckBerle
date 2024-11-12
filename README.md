@@ -8,7 +8,7 @@
 ![MojoDesign3(removed background) - Copy](https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/83cf9f32-f370-4243-a16f-74348540ab98)
 
 <div style="text-align: center;">
-  <img alt="Coding" width="100%" height="30%" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+  <img alt="Coding" width="300" height="300" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 </div>
 
 
