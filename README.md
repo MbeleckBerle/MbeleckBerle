@@ -26,5 +26,15 @@
 ![split section](https://github.com/user-attachments/assets/4a8b3f90-8837-4a67-bf4e-7d75f90b50b9)
 
 
+<div style="display: flex; flex-direction: column;">
+    <a><img height=200 src="https://github-readme-stats.vercel.app/api?username=MbeleckBerle&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" alt="CHR-onicles Github stats/"></a>
+    <br />
+    <a><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=MbeleckBerle&theme=dracula" /></a>
+    <br />
+</div>
+
+
+
+
 <!-- <img width="500" src="https://metrics.lecoq.io/CHR-onicles" alt="Github Metrics"> -->
 
