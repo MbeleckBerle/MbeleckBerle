@@ -27,7 +27,7 @@
 
 
 <div style="display: flex; flex-direction: column;">
-    <a><img height=200 src="https://github-readme-stats.vercel.app/api?username=MbeleckBerle&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" alt="CHR-onicles Github stats/"></a>
+    <a><img height=200 src="https://github-readme-stats.vercel.app/api?username=MbeleckBerle&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" alt="MbelecGithub stats/"></a>
     <br />
     <a><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=MbeleckBerle&theme=dracula" /></a>
     <br />
