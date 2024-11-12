@@ -13,18 +13,6 @@
 
 
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=CHR-onicles&label=Profile%20views&color=E0245E&style=flat" alt="CHR-onicles" /> </p>
-
-![Header-image](images/cover.jpg)
-
-<h3 align="left">I'm a reader, gamer, developer and a huge fan of classical music 🎼.</h3>
-
-
-  [Liszt 🎵](https://www.youtube.com/watch?v=H1Dvg2MxQn8),
-  [Tchaikovsky🎵](https://www.youtube.com/watch?v=sdduPpnqre4),
-  [Vivaldi 🎵](https://www.youtube.com/watch?v=H_3JiTfmuzg)
-
 ![Split-section](images/split%20section.png)
 
 <h3 align="left">⚙ My Tech Stack:</h3>
