@@ -15,7 +15,7 @@
 ![split section](https://github.com/user-attachments/assets/4a8b3f90-8837-4a67-bf4e-7d75f90b50b9)
 <h3 align="left">⚙Tech Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,qt,mysql,sqlite,mongodb,html,css,js,react,nodejs,graphql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,python,qt,mysql,sqlite,mongodb,html,css,js,react,nodejs,graphql&theme=dark)](https://skillicons.dev)
 
 <h3>🗨connect :</h3>
 
