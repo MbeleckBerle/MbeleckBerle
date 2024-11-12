@@ -17,13 +17,12 @@
 
 <h3 align="left">⚙ My Tech Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=python,qt,mysql,sqlite,mongodb,html,css,sass,styledcomponents,js,typescript,react,nodejs,graphql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,qt,mysql,sqlite,mongodb,html,css,sass,styledcomponents,js,react,nodejs,graphql&theme=dark)](https://skillicons.dev)
 
-<h3>🗨 Lets connect :</h3>
+<h3>🗨connect :</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/divineanum)
-[![My Skills](https://skillicons.dev/icons?i=twitter&theme=dark)](https://twitter.com/OniclesChr?s=09chr)
-[![My Skills](https://skillicons.dev/icons?i=discord&theme=dark)]("https://discordapp.com/users/475709262883061762)
+
 
 ![Split-section](images/split%20section.png)
 
