@@ -21,7 +21,7 @@
 
 <h3>🗨connect :</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://linkedin.com/in/divineanum)
+[![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/mbeleck-b-7a9818255/)
 
 
 ![Split-section](images/split%20section.png)
