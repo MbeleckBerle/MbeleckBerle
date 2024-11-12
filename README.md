@@ -1,11 +1,13 @@
 # Mbeleck Berle
 **`Machine learning Enthusiast`**
 
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MbeleckBerle&label=Profile%20views&color=E0245E&style=flat" alt="CHR-onicles" /> </p>
+
 <div style="text-align: center;">
   <img alt="Coding" width="400" height="70%" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 </div>
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MbeleckBerle&label=Profile%20views&color=E0245E&style=flat" alt="CHR-onicles" /> </p>
 
 ![MojoDesign3(removed background) - Copy](https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/83cf9f32-f370-4243-a16f-74348540ab98)
 
