@@ -23,11 +23,8 @@
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/mbeleck-b-7a9818255/)
 
 
-![Split-section](images/split%20section.png)
+![split section](https://github.com/user-attachments/assets/4a8b3f90-8837-4a67-bf4e-7d75f90b50b9)
 
 
-
-<!-- ![Split-section](images/split%20section.png)
-
-<img width="500" src="https://metrics.lecoq.io/CHR-onicles" alt="Github Metrics"> -->
+<!-- <img width="500" src="https://metrics.lecoq.io/CHR-onicles" alt="Github Metrics"> -->
 
