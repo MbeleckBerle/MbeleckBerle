@@ -3,7 +3,7 @@
 
 
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MbeleckBerle&label=Profile%20views&color=E0245E&style=flat" alt="CHR-onicles" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MbeleckBerle&label=Profile%20views&color=E0245E&style=flat" alt="MbeleckBerlr" /> 
 
 ![MojoDesign3(removed background) - Copy](https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/83cf9f32-f370-4243-a16f-74348540ab98)
 
