@@ -35,7 +35,7 @@
 ![split section](https://github.com/user-attachments/assets/4a8b3f90-8837-4a67-bf4e-7d75f90b50b9)
 
 
-<div style="display: flex; flex-direction: column;">
+<div align ="center" style="display: flex; flex-direction: column;">
     <br/>
     <br />
     <a><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=MbeleckBerle&theme=dracula" /></a>
