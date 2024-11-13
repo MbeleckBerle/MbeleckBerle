@@ -29,15 +29,16 @@
 
 [![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,python,qt,mysql,sqlite,mongodb,html,css,js,react,nodejs,graphql&theme=dark)](https://skillicons.dev)
 
-<h3>🗨connect :</h3>
+<h3  align ="center" >🗨connect :</h3>
 
   
 [![My Skills](https://skillicons.dev/icons?i=linkedin&theme=dark)](https://www.linkedin.com/in/mbeleck-b-7a9818255/)
 
-</div>
+
 
 ![split section](https://github.com/user-attachments/assets/4a8b3f90-8837-4a67-bf4e-7d75f90b50b9)
 
+</div>
 
 <div align ="center" style="display: flex; flex-direction: column;">
     <br/>
