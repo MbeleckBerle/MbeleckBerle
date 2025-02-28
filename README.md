@@ -1,7 +1,7 @@
 <div align ="center" style="text-align: center;">
 <h1> Mbeleck Berle ( MOJO ) </h1> <br/>
   
-**`Machine learning Enthusiast`**
+**`Machine learning Engineer`**
 </div>
 
 
