@@ -10,7 +10,7 @@
 
 <!-- Centering the mojobyte image -->
 <div align="center">
-    <img src="https://github.com/user-attachments/assets/baa3715c-1583-4ae3-9f10-5a0c5c81e0c5" alt="mojobyte ai" />
+    <img src="https://github.com/user-attachments/assets/06c3e9df-cdd9-4c95-a5f0-0c67adccb714" alt="mojobyte ai" />
 </div>
 
 
