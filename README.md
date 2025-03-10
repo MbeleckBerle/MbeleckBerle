@@ -12,7 +12,7 @@
   <img alt="Coding" width="300" height="40%" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
 </div>
 
-![MojoDesign3(removed background) - Copy](https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/83cf9f32-f370-4243-a16f-74348540ab98)
+<!--  ![MojoDesign3(removed background) - Copy](https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/83cf9f32-f370-4243-a16f-74348540ab98) -->
 
 
 ![mojobyte ai-removebg-preview](https://github.com/user-attachments/assets/baa3715c-1583-4ae3-9f10-5a0c5c81e0c5)
