@@ -1,3 +1,17 @@
+
+<!--  ![MojoDesign3(removed background) - Copy](https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/83cf9f32-f370-4243-a16f-74348540ab98) -->
+
+
+<!-- Centering the mojobyte image -->
+<div align="center">
+    <img src="https://github.com/user-attachments/assets/06c3e9df-cdd9-4c95-a5f0-0c67adccb714" alt="mojobyte ai" />
+</div>
+
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=MbeleckBerle&label=Profile%20views&color=E0245E&style=flat" alt="MbeleckBerlr" /> 
+
+
 ![snake](https://github.com/user-attachments/assets/4a645c8a-1167-4698-a932-b89d2935bfa0)<div align ="center" style="text-align: center;">
 <h1> Mbeleck Berle ( MOJO ) </h1> <br/>
   
@@ -759,18 +773,6 @@
     <rect class="s s2" x="2.6" y="2.6" width="10.8" height="10.8" rx="3.6" ry="3.6"/>
     <rect class="s s3" x="3.0" y="3.0" width="9.9" height="9.9" rx="3.3" ry="3.3"/>
 </svg>g…]()
-
-<!--  ![MojoDesign3(removed background) - Copy](https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/83cf9f32-f370-4243-a16f-74348540ab98) -->
-
-
-<!-- Centering the mojobyte image -->
-<div align="center">
-    <img src="https://github.com/user-attachments/assets/06c3e9df-cdd9-4c95-a5f0-0c67adccb714" alt="mojobyte ai" />
-</div>
-
-
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=MbeleckBerle&label=Profile%20views&color=E0245E&style=flat" alt="MbeleckBerlr" /> 
 
 <div align ="center" style="text-align: center;">
   <img alt="Coding" width="300" height="40%" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
