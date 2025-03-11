@@ -805,13 +805,12 @@
 
 </div>
 
-<div align ="center" style="display: flex; flex-direction: column;">
+<!-- <div align ="center" style="display: flex; flex-direction: column;">
     <br/>
     <br />
     <a><img height=200 src="https://github-readme-streak-stats.herokuapp.com/?user=MbeleckBerle&theme=dracula" /></a>
     <br />
-</div>
-
+</div> -->
 
 
 <!-- <img width="500" src="https://metrics.lecoq.io/CHR-onicles" alt="Github Metrics"> -->
