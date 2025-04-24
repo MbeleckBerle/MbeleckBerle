@@ -1,7 +1,6 @@
 
 <!--  ![MojoDesign3(removed background) - Copy](https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/83cf9f32-f370-4243-a16f-74348540ab98) -->
 
-
 <!-- Centering the mojobyte image -->
 <div align="center">
     <img src="https://github.com/user-attachments/assets/06c3e9df-cdd9-4c95-a5f0-0c67adccb714" alt="mojobyte ai" />
@@ -17,8 +16,8 @@
 </div>
 
 
-![snake](https://github.com/user-attachments/assets/4a645c8a-1167-4698-a932-b89d2935bfa0)<div align ="center" style="text-align: center;">
-<h1> Mbeleck Berle ( MOJO ) </h1> <br/>
+<!-- ![snake](https://github.com/user-attachments/assets/4a645c8a-1167-4698-a932-b89d2935bfa0)<div align ="center" style="text-align: center;">
+<h1> Mbeleck Berle ( MOJO ) </h1> <br/> -->
   
 **`Machine learning Engineer`**
 </div>
