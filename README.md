@@ -12,7 +12,7 @@
 
 
 <div align ="center" style="text-align: center;">
-  <img alt="Coding" width="300" height="40%" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
+<!--   <img alt="Coding" width="300" height="40%" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"> -->
       <img alt="Coding" width="300" height="40%" src="https://github.com/user-attachments/assets/3999d0ff-2241-4acd-a5d0-6a444b188566">
 
 </div>
