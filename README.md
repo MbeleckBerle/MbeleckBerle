@@ -10,13 +10,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=MbeleckBerle&label=Profile%20views&color=E0245E&style=flat" alt="MbeleckBerlr" /> 
 
-
+<!--
 <div align ="center" style="text-align: center;">
-<!--   <img alt="Coding" width="300" height="40%" src="https://gist.githubusercontent.com/vininjr/d29bb07bdadb41e4b0923bc8fa748b1a/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"> -->
       <img alt="Coding" width="300" height="40%" src="https://github.com/user-attachments/assets/3999d0ff-2241-4acd-a5d0-6a444b188566">
-
 </div>
-
+-->
 
 <div align ="center" style="text-align: center;">
 <img alt="Coding" src="https://github.com/user-attachments/assets/f194496a-5c19-44d7-82c2-d0fb19af7ad4">
