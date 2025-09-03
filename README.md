@@ -23,7 +23,11 @@
     
 </div>
 
+
+<div align ="center" style="text-align: center;">
 <img alt="Snake" src="https://github.com/user-attachments/assets/4a645c8a-1167-4698-a932-b89d2935bfa0">
+</div>
+
 ![snake](https://github.com/user-attachments/assets/4a645c8a-1167-4698-a932-b89d2935bfa0)<div align ="center" style="text-align: center;">
 <h1> Mbeleck Berle ( MOJO ) </h1> <br/>
   
