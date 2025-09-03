@@ -19,7 +19,8 @@
 
 
 <div align ="center" style="text-align: center;">
-![1750932893859](https://github.com/user-attachments/assets/f194496a-5c19-44d7-82c2-d0fb19af7ad4)
+<img alt="Coding" src="https://github.com/user-attachments/assets/f194496a-5c19-44d7-82c2-d0fb19af7ad4">
+    
 </div>
 
 ![snake](https://github.com/user-attachments/assets/4a645c8a-1167-4698-a932-b89d2935bfa0)<div align ="center" style="text-align: center;">
