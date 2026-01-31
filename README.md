@@ -2,9 +2,11 @@
 <!--  ![MojoDesign3(removed background) - Copy](https://github.com/MbeleckBerle/MbeleckBerle/assets/91129216/83cf9f32-f370-4243-a16f-74348540ab98) -->
 
 <!-- Centering the mojobyte image -->
+<!--
 <div align="center">
     <img src="https://github.com/user-attachments/assets/06c3e9df-cdd9-4c95-a5f0-0c67adccb714" alt="mojobyte ai" />
 </div>
+-->
 
 
 
