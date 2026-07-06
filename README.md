@@ -59,7 +59,7 @@
 
 ![split section](https://github.com/user-attachments/assets/4a8b3f90-8837-4a67-bf4e-7d75f90b50b9)
 
-<img width="500" height="500" alt="HTB Tactical" src="https://github.com/user-attachments/assets/4cf180db-513d-42a3-96f7-20dd54bf2743" />
+<img width="50" height="50" alt="HTB Tactical" src="https://github.com/user-attachments/assets/4cf180db-513d-42a3-96f7-20dd54bf2743" />
 
 
 </div>
