@@ -18,10 +18,10 @@
 </div>
 -->
 
-<div align ="center" style="text-align: center;">
+<!-- <div align ="center" style="text-align: center;">
 <img alt="Coding" src="https://github.com/user-attachments/assets/f194496a-5c19-44d7-82c2-d0fb19af7ad4">
     
-</div>
+</div> -->
 
 
 
