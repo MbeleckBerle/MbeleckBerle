@@ -59,7 +59,8 @@
 
 ![split section](https://github.com/user-attachments/assets/4a8b3f90-8837-4a67-bf4e-7d75f90b50b9)
 
-<div src="https://academy.hackthebox.com/achievement/badge/4a3335da-78ee-11f1-82d1-bea50ffe6cb4"></div>
+<img width="1080" height="1080" alt="image" src="https://github.com/user-attachments/assets/4cf180db-513d-42a3-96f7-20dd54bf2743" />
+
 
 </div>
 
